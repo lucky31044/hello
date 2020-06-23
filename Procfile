@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True covid.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True Pandaspractice.ipynb
